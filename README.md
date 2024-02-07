@@ -5,4 +5,5 @@ This is a project aims to predict the car prices using Linear Regression algorit
 The contributors:
   Malk Khalid: www.linkedin.com/in/malk-khatab
   Mayar Ehab: https://www.linkedin.com/in/mayar-ehab-766b56239/
+  Layla Abdallah: https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav
   
